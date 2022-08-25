@@ -20,8 +20,8 @@
 <ul>
   <li>:student: Student at University of Maryland pursuing MS in Software Engineering.</li>
   <li>:computer: I love using Software to solve a Problem</li>
-  <li>:student: I’m currently learning: AWS Cloud Foundations and `Angular</li>
-  <li>:student: :nerd_face: Always learning new things</li>
+  <li>:bulb: I’m currently learning: AWS Cloud Foundations and `Angular</li>
+  <li>:nerd_face: Always learning new things</li>
 </ul>
  
 <br/>
