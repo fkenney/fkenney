@@ -1,4 +1,4 @@
-
+<h2 align="center">Hello, I'm Felicia Kenney:wave: </h2>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
@@ -14,7 +14,12 @@
   </a>
 </div>
 <hr>
-<h2>About Me: </h2>
+
+<h4>:open_book: About Me: </h4>
+- :student: Student at University of Maryland pursuing ```MS in Software Engineering```.
+- :computer: I love using Software to solve a `Problem`
+- :student: I’m currently learning: `AWS Cloud Foundations` and `Angular`.
+- :nerd_face: Always `learning new things`
 <hr>
 <h4>:hammer_and_wrench:  Languages and Tools:</h4>
 <div align="left">
@@ -29,6 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fkenney&theme=dark)](https://git.io/streak-stats)
+<br>
+<h4> 🔥 Streak Stats</h4>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=fkenney&theme=dark"></p>
 
