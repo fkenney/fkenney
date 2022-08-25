@@ -13,15 +13,21 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<hr>
 
+<br>
 <h4>:open_book: About Me: </h4>
-- :student: Student at University of Maryland pursuing ```MS in Software Engineering```.
-- :computer: I love using Software to solve a `Problem`
-- :student: I’m currently learning: `AWS Cloud Foundations` and `Angular`.
-- :nerd_face: Always `learning new things`
 <hr>
+<ul>
+  <li>:student: Student at University of Maryland pursuing MS in Software Engineering.</li>
+  <li>:computer: I love using Software to solve a Problem</li>
+  <li>:student: I’m currently learning: AWS Cloud Foundations and `Angular</li>
+  <li>:student: :nerd_face: Always learning new things</li>
+</ul>
+ 
+<br/>
+
 <h4>:hammer_and_wrench:  Languages and Tools:</h4>
+<hr/>
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -36,5 +42,6 @@
 </div>
 <br>
 <h4> 🔥 Streak Stats</h4>
+<hr>
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=fkenney&theme=dark"></p>
 
