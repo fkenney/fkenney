@@ -18,12 +18,13 @@
 <h4>:open_book: About Me: </h4>
 <hr>
 <ul>
-  <li>:student: Student at University of Maryland pursuing MS in Software Engineering.</li>
-  <li>:computer: I love using Software to solve a Problem</li>
-  <li>:bulb: I’m currently learning Angular</li>
+  <li>:student: Student at University of Maryland pursuing <code>MS in Software Engineering</code>.</li>
+  <li>:computer: I love using Software to solve a problem</li>
+  <li>:bulb: I’m currently learning <code>Angular</code></li>
   <li>:nerd_face: Always learning new things</li>
 </ul>
  
+
 <br/>
 
 <h4>:hammer_and_wrench:  Languages and Tools:</h4>
